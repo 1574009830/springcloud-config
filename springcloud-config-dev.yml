@@ -1,5 +1,5 @@
 server:
   port: 3355
 config:
-  info: "xxxxxxxxxxxxxxxxxxx version=3"
+  info: "xxxxxxxxxxxxxxxxxxx version=4"
 
